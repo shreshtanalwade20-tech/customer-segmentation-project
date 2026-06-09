@@ -1,0 +1,201 @@
+CustomerID,Age,AnnualIncome,PurchaseFrequency,LastPurchaseDays,ProductCategory,LikelyBuyer
+1,32,55,12,52,Home & Kitchen,0
+2,62,44,5,92,Groceries,0
+3,52,20,8,114,Groceries,0
+4,33,44,14,39,Beauty,0
+5,30,16,2,49,Home & Kitchen,0
+6,45,68,18,16,Home & Kitchen,1
+7,44,76,20,24,Electronics,1
+8,43,108,46,1,Home & Kitchen,1
+9,42,62,19,25,Fashion,1
+10,39,134,32,17,Fashion,1
+11,53,76,47,9,Home & Kitchen,1
+12,29,118,22,16,Electronics,1
+13,42,26,3,98,Groceries,0
+14,31,75,28,16,Electronics,1
+15,52,58,21,34,Beauty,0
+16,22,58,8,19,Beauty,0
+17,34,65,24,50,Electronics,0
+18,41,65,18,57,Electronics,0
+19,35,36,8,45,Beauty,0
+20,27,42,6,44,Beauty,0
+21,27,71,22,42,Electronics,0
+22,32,92,48,1,Fashion,1
+23,53,27,4,83,Beauty,0
+24,45,109,39,2,Fashion,1
+25,45,128,34,2,Fashion,1
+26,22,44,5,61,Home & Kitchen,0
+27,66,33,6,79,Home & Kitchen,0
+28,22,33,8,105,Beauty,0
+29,31,139,25,17,Fashion,1
+30,44,18,8,64,Groceries,0
+31,48,118,23,1,Fashion,1
+32,41,62,24,40,Electronics,0
+33,45,134,44,6,Electronics,1
+34,62,70,16,27,Fashion,1
+35,54,29,2,83,Beauty,0
+36,21,40,9,24,Home & Kitchen,0
+37,39,81,20,18,Fashion,1
+38,39,79,26,1,Home & Kitchen,1
+39,43,65,15,37,Beauty,0
+40,59,67,8,49,Fashion,0
+41,27,108,32,19,Fashion,1
+42,52,83,38,9,Electronics,1
+43,21,48,20,32,Electronics,0
+44,47,26,3,109,Groceries,0
+45,26,98,32,5,Home & Kitchen,1
+46,61,58,19,28,Electronics,1
+47,45,88,46,12,Electronics,1
+48,51,69,19,37,Beauty,0
+49,26,76,16,33,Fashion,0
+50,54,86,44,8,Electronics,1
+51,28,29,9,101,Groceries,0
+52,37,52,18,56,Fashion,0
+53,32,82,26,12,Home & Kitchen,1
+54,21,78,16,33,Home & Kitchen,0
+55,50,20,1,63,Beauty,0
+56,40,71,24,50,Electronics,0
+57,48,89,41,4,Electronics,1
+58,54,42,11,19,Electronics,0
+59,41,69,23,41,Electronics,0
+60,25,75,16,17,Electronics,1
+61,40,107,44,9,Home & Kitchen,1
+62,45,121,27,2,Electronics,1
+63,51,75,24,58,Electronics,0
+64,49,101,20,5,Electronics,1
+65,28,137,30,5,Fashion,1
+66,46,119,47,1,Fashion,1
+67,53,121,36,7,Electronics,1
+68,44,127,29,15,Home & Kitchen,1
+69,51,42,4,45,Home & Kitchen,0
+70,36,136,47,11,Electronics,1
+71,28,40,9,27,Home & Kitchen,0
+72,53,139,31,9,Home & Kitchen,1
+73,47,65,20,20,Home & Kitchen,1
+74,22,41,8,65,Groceries,0
+75,41,49,11,33,Beauty,0
+76,47,122,44,18,Electronics,1
+77,52,16,8,81,Groceries,0
+78,64,68,24,59,Beauty,0
+79,23,44,8,90,Groceries,0
+80,52,79,8,53,Home & Kitchen,0
+81,24,43,10,53,Electronics,0
+82,62,55,16,54,Electronics,0
+83,23,36,4,80,Home & Kitchen,0
+84,43,65,17,51,Beauty,0
+85,27,111,28,7,Home & Kitchen,1
+86,59,64,15,52,Beauty,0
+87,48,16,2,118,Home & Kitchen,0
+88,48,44,11,23,Electronics,0
+89,43,109,26,16,Electronics,1
+90,61,40,21,23,Fashion,1
+91,49,136,32,3,Home & Kitchen,1
+92,50,31,6,64,Home & Kitchen,0
+93,56,49,14,42,Electronics,0
+94,46,136,26,2,Home & Kitchen,1
+95,45,29,6,101,Groceries,0
+96,31,83,45,12,Home & Kitchen,1
+97,67,23,5,67,Groceries,0
+98,58,27,1,56,Beauty,0
+99,50,41,2,60,Home & Kitchen,0
+100,34,82,45,3,Electronics,1
+101,38,33,7,58,Beauty,0
+102,50,56,10,45,Fashion,0
+103,52,100,49,2,Home & Kitchen,1
+104,36,107,49,11,Electronics,1
+105,31,110,48,3,Fashion,1
+106,25,115,40,11,Electronics,1
+107,52,79,17,21,Fashion,1
+108,39,53,10,15,Home & Kitchen,0
+109,34,24,9,107,Groceries,0
+110,49,75,39,16,Fashion,1
+111,63,40,6,79,Beauty,0
+112,46,21,7,73,Beauty,0
+113,42,55,19,18,Home & Kitchen,1
+114,44,51,11,43,Fashion,0
+115,27,44,11,31,Fashion,0
+116,31,31,5,59,Groceries,0
+117,34,44,5,56,Beauty,0
+118,33,77,46,1,Fashion,1
+119,40,15,3,90,Home & Kitchen,0
+120,39,16,9,42,Beauty,0
+121,66,37,5,101,Home & Kitchen,0
+122,45,73,10,58,Fashion,0
+123,51,76,17,43,Beauty,0
+124,42,79,49,12,Fashion,1
+125,30,21,8,75,Groceries,0
+126,35,80,42,17,Home & Kitchen,1
+127,63,44,12,55,Beauty,0
+128,47,76,24,17,Electronics,1
+129,20,67,23,36,Home & Kitchen,0
+130,54,115,49,8,Fashion,1
+131,36,71,24,31,Electronics,0
+132,30,40,7,47,Beauty,0
+133,22,34,8,114,Groceries,0
+134,35,31,5,109,Home & Kitchen,0
+135,38,16,3,118,Groceries,0
+136,27,36,2,98,Groceries,0
+137,43,78,49,5,Fashion,1
+138,52,45,9,35,Fashion,0
+139,30,127,29,6,Electronics,1
+140,52,109,47,7,Fashion,1
+141,54,114,21,17,Fashion,1
+142,36,83,31,6,Fashion,1
+143,53,60,10,45,Fashion,0
+144,58,78,14,56,Fashion,0
+145,63,40,23,22,Electronics,1
+146,44,69,12,53,Fashion,0
+147,54,43,23,39,Home & Kitchen,0
+148,34,41,7,96,Beauty,0
+149,67,19,3,72,Groceries,0
+150,54,33,1,96,Beauty,0
+151,44,25,9,70,Groceries,0
+152,35,69,24,21,Fashion,1
+153,54,102,20,7,Electronics,1
+154,26,15,2,52,Home & Kitchen,0
+155,64,29,1,114,Beauty,0
+156,42,72,24,53,Beauty,0
+157,20,20,7,65,Groceries,0
+158,22,55,8,59,Electronics,0
+159,61,44,19,53,Electronics,0
+160,35,118,38,17,Electronics,1
+161,50,124,23,17,Home & Kitchen,1
+162,38,89,29,9,Electronics,1
+163,46,51,19,26,Fashion,1
+164,43,35,1,94,Beauty,0
+165,38,19,2,63,Groceries,0
+166,55,39,3,47,Groceries,0
+167,41,82,49,3,Fashion,1
+168,42,28,9,48,Beauty,0
+169,18,39,6,109,Beauty,0
+170,64,32,9,103,Beauty,0
+171,50,89,47,16,Home & Kitchen,1
+172,19,15,3,95,Home & Kitchen,0
+173,31,51,12,59,Beauty,0
+174,48,78,32,2,Electronics,1
+175,52,109,42,19,Home & Kitchen,1
+176,45,15,8,78,Groceries,0
+177,50,78,23,26,Fashion,1
+178,45,28,4,113,Home & Kitchen,0
+179,18,32,1,43,Beauty,0
+180,36,37,3,65,Groceries,0
+181,54,38,7,84,Home & Kitchen,0
+182,65,32,4,45,Home & Kitchen,0
+183,27,44,3,109,Beauty,0
+184,44,97,39,10,Electronics,1
+185,45,42,3,106,Home & Kitchen,0
+186,68,17,4,91,Beauty,0
+187,37,22,5,107,Groceries,0
+188,28,88,24,5,Home & Kitchen,1
+189,26,122,38,6,Electronics,1
+190,61,61,20,41,Home & Kitchen,0
+191,49,30,6,43,Home & Kitchen,0
+192,34,73,19,59,Electronics,0
+193,58,16,1,105,Home & Kitchen,0
+194,36,103,25,16,Home & Kitchen,1
+195,35,128,26,17,Electronics,1
+196,55,61,10,22,Fashion,0
+197,51,137,49,4,Fashion,1
+198,42,74,10,30,Fashion,0
+199,51,85,30,19,Fashion,1
+200,65,22,9,57,Groceries,0
